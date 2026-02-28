@@ -62,12 +62,6 @@ shadcn-ui – Component library
 
 Tailwind CSS – Styling framework
 
-Supabase – Backend and authentication
-
 How can I run this project locally?
 Follow the steps in the "Use your preferred IDE" section above. After running npm run dev, the development server will start and you can view the application at http://localhost:5173.
 
-
-Click "Add custom domain"
-
-Follow the instructions to configure your DNS settings
